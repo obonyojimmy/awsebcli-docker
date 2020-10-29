@@ -16,6 +16,6 @@ docker run -it \
   obonyojimmy/awsebcli <eb cmd>
 ```
 
-## Usage References
+## References
 
 EB CLI Docs: http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3.html
